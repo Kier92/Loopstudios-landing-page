@@ -280,6 +280,7 @@ footer  {
 
     header nav .navbar {
         flex-direction: column;
+        over-flow: hidden;
         position: absolute;
         margin-top: 0;
         left: 0;
